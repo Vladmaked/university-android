@@ -1,0 +1,46 @@
+# Standard files and directories to be ignored in Android projects
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+# Compiled files
+bin/
+gen/
+out/
+
+# Log files
+*.log
+
+# Android Studio files
+.idea
+
+# Local configuration files
+local.properties
+
+# Proguard files
+proguard-rules.pro
+proguard-project.txt
+
+# Gradle files
+gradle-wrapper.jar
+
+# Keystore files
+*.jks
+*.keystore
+
+# Exclude all APK files
+*.apk
+
+# Exclude build folders of each module
+**/build/
+

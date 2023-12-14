@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab First</string>
+    <string name="welcome_message">Welcome to our app!</string>
+    <string name="new_message">This new text!</string>
+</resources>
